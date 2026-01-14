@@ -6,6 +6,15 @@ GREEN = "\033[32m"
 YELLOW = "\033[33m"
 RESET = "\033[0m"
 
+persons_dict = {
+        "yo": "Yo",
+        "tu": "Tú",
+        "el": "él/ella/usted",
+        "nosotros": "nosotros/nosotras",
+        "vosotros": "vosotros/vosotras",
+        "ellos": "ellos/ellas/ustedes"
+}
+
 con = sqlite3.connect("verbs.db")
 cur = con.cursor()
 
@@ -28,7 +37,8 @@ while end == False:
 
     res = cur.execute(f"SELECT {person} FROM verbs WHERE infinitivo='{verb}'")
     correct = res.fetchone()[0]
-    answer = input(f"{person} {verb}: ")
+    full_person = persons_dict[person]
+    answer = input(f"{full_person} {verb}: ")
     if answer == "q":
         end = True
     elif answer == correct:
