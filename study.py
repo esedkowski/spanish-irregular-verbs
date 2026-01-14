@@ -25,9 +25,8 @@ end = False
 while end == False:
     person = choice(col_names)
     verb = choice(verbs)
-    level = randint(1, max_level)
 
-    res = cur.execute(f"SELECT {person} FROM verbs WHERE infinitivo='{verb}' AND level={level}")
+    res = cur.execute(f"SELECT {person} FROM verbs WHERE infinitivo='{verb}'")
     correct = res.fetchone()[0]
     answer = input(f"{person} {verb}: ")
     if answer == "q":
