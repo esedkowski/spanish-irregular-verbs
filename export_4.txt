@@ -1,0 +1,10 @@
+decir; Yo digo<br>Tú dices<br>él/ella/usted dice<br>nosotros/nosotras decimos<br>vosotros/vosotras decís<br>ellos/ellas/ustedes dicen<br>
+elegir; Yo elijo<br>Tú eliges<br>él/ella/usted elige<br>nosotros/nosotras elegimos<br>vosotros/vosotras elegís<br>ellos/ellas/ustedes eligen<br>
+haber; Yo he<br>Tú has<br>él/ella/usted ha/hay<br>nosotros/nosotras hemos<br>vosotros/vosotras habéis<br>ellos/ellas/ustedes han<br>
+ir; Yo voy<br>Tú vas<br>él/ella/usted va<br>nosotros/nosotras vamos<br>vosotros/vosotras vais<br>ellos/ellas/ustedes van<br>
+oler; Yo huelo<br>Tú hueles<br>él/ella/usted huele<br>nosotros/nosotras olemos<br>vosotros/vosotras oléis<br>ellos/ellas/ustedes huelen<br>
+oír; Yo oigo<br>Tú oyes<br>él/ella/usted oye<br>nosotros/nosotras oímos<br>vosotros/vosotras oís<br>ellos/ellas/ustedes oyen<br>
+seguir; Yo sigo<br>Tú sigues<br>él/ella/usted sigue<br>nosotros/nosotras seguimos<br>vosotros/vosotras seguís<br>ellos/ellas/ustedes siguen<br>
+ser; Yo soy<br>Tú eres<br>él/ella/usted es<br>nosotros/nosotras somos<br>vosotros/vosotras sois<br>ellos/ellas/ustedes son<br>
+tener; Yo tengo<br>Tú tienes<br>él/ella/usted tiene<br>nosotros/nosotras tenemos<br>vosotros/vosotras tenéis<br>ellos/ellas/ustedes tienen<br>
+venir; Yo vengo<br>Tú vienes<br>él/ella/usted viene<br>nosotros/nosotras venimos<br>vosotros/vosotras venís<br>ellos/ellas/ustedes vienen<br>

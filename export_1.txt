@@ -1,0 +1,24 @@
+abrir; Yo abro<br>Tú abres<br>él/ella/usted abre<br>nosotros/nosotras abrimos<br>vosotros/vosotras abrís<br>ellos/ellas/ustedes abren<br>
+acabar; Yo acabo<br>Tú acabas<br>él/ella/usted acaba<br>nosotros/nosotras acabamos<br>vosotros/vosotras acabáis<br>ellos/ellas/ustedes acaban<br>
+amar; Yo amo<br>Tú amas<br>él/ella/usted ama<br>nosotros/nosotras amamos<br>vosotros/vosotras amáis<br>ellos/ellas/ustedes aman<br>
+bailar; Yo bailo<br>Tú bailas<br>él/ella/usted baila<br>nosotros/nosotras bailamos<br>vosotros/vosotras bailáis<br>ellos/ellas/ustedes bailan<br>
+beber; Yo bebo<br>Tú bebes<br>él/ella/usted bebe<br>nosotros/nosotras bebemos<br>vosotros/vosotras bebéis<br>ellos/ellas/ustedes beben<br>
+cambiarse; Yo me cambio<br>Tú te cambias<br>él/ella/usted se cambia<br>nosotros/nosotras nos cambiamos<br>vosotros/vosotras os cambiáis<br>ellos/ellas/ustedes se cambian<br>
+comer; Yo como<br>Tú comes<br>él/ella/usted come<br>nosotros/nosotras comemos<br>vosotros/vosotras coméis<br>ellos/ellas/ustedes comen<br>
+completar; Yo completo<br>Tú completas<br>él/ella/usted completa<br>nosotros/nosotras completamos<br>vosotros/vosotras completáis<br>ellos/ellas/ustedes completan<br>
+comprar; Yo compro<br>Tú compras<br>él/ella/usted compra<br>nosotros/nosotras compramos<br>vosotros/vosotras compráis<br>ellos/ellas/ustedes compran<br>
+correr; Yo corro<br>Tú corres<br>él/ella/usted corre<br>nosotros/nosotras corremos<br>vosotros/vosotras corréis<br>ellos/ellas/ustedes corren<br>
+escribir; Yo escribo<br>Tú escribes<br>él/ella/usted escribe<br>nosotros/nosotras escribimos<br>vosotros/vosotras escribís<br>ellos/ellas/ustedes escriben<br>
+escuchar; Yo escucho<br>Tú escuchas<br>él/ella/usted escucha<br>nosotros/nosotras escuchamos<br>vosotros/vosotras escucháis<br>ellos/ellas/ustedes escuchan<br>
+hablar; Yo hablo<br>Tú hablas<br>él/ella/usted habla<br>nosotros/nosotras hablamos<br>vosotros/vosotras habláis<br>ellos/ellas/ustedes hablan<br>
+leer; Yo leo<br>Tú lees<br>él/ella/usted lee<br>nosotros/nosotras leemos<br>vosotros/vosotras leéis<br>ellos/ellas/ustedes leen<br>
+llamarse; Yo me llamo<br>Tú te llamas<br>él/ella/usted se llama<br>nosotros/nosotras nos llamamos<br>vosotros/vosotras os llamáis<br>ellos/ellas/ustedes se llaman<br>
+nadar; Yo nado<br>Tú nadas<br>él/ella/usted nada<br>nosotros/nosotras nadamos<br>vosotros/vosotras nadáis<br>ellos/ellas/ustedes nadan<br>
+ponerse; Yo me pono<br>Tú te pones<br>él/ella/usted se pone<br>nosotros/nosotras nos ponemos<br>vosotros/vosotras os ponéis<br>ellos/ellas/ustedes se ponen<br>
+preguntar; Yo pregunto<br>Tú preguntas<br>él/ella/usted pregunta<br>nosotros/nosotras preguntamos<br>vosotros/vosotras preguntáis<br>ellos/ellas/ustedes preguntan<br>
+probarse; Yo me probo<br>Tú te probas<br>él/ella/usted se proba<br>nosotros/nosotras nos probamos<br>vosotros/vosotras os probáis<br>ellos/ellas/ustedes se proban<br>
+quitarse; Yo me quito<br>Tú te quitas<br>él/ella/usted se quita<br>nosotros/nosotras nos quitamos<br>vosotros/vosotras os quitáis<br>ellos/ellas/ustedes se quitan<br>
+romper; Yo rompo<br>Tú rompes<br>él/ella/usted rompe<br>nosotros/nosotras rompemos<br>vosotros/vosotras rompéis<br>ellos/ellas/ustedes rompen<br>
+subir; Yo subo<br>Tú subes<br>él/ella/usted sube<br>nosotros/nosotras subimos<br>vosotros/vosotras subís<br>ellos/ellas/ustedes suben<br>
+terminar; Yo termino<br>Tú terminas<br>él/ella/usted termina<br>nosotros/nosotras terminamos<br>vosotros/vosotras termináis<br>ellos/ellas/ustedes terminan<br>
+vivir; Yo vivo<br>Tú vives<br>él/ella/usted vive<br>nosotros/nosotras vivimos<br>vosotros/vosotras vivís<br>ellos/ellas/ustedes viven<br>

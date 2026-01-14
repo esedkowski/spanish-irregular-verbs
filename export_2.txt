@@ -1,0 +1,15 @@
+caber; Yo quepo<br>Tú cabes<br>él/ella/usted cabe<br>nosotros/nosotras cabemos<br>vosotros/vosotras cabéis<br>ellos/ellas/ustedes caben<br>
+caer; Yo caigo<br>Tú caes<br>él/ella/usted cae<br>nosotros/nosotras caemos<br>vosotros/vosotras caéis<br>ellos/ellas/ustedes caen<br>
+coger; Yo cojo<br>Tú coges<br>él/ella/usted coge<br>nosotros/nosotras cogemos<br>vosotros/vosotras cogéis<br>ellos/ellas/ustedes cogen<br>
+conducir; Yo conduzco<br>Tú conduces<br>él/ella/usted conduce<br>nosotros/nosotras conducimos<br>vosotros/vosotras conducís<br>ellos/ellas/ustedes conducen<br>
+conocer; Yo conozco<br>Tú conoces<br>él/ella/usted conoce<br>nosotros/nosotras conocemos<br>vosotros/vosotras conocéis<br>ellos/ellas/ustedes conocen<br>
+dar; Yo doy<br>Tú das<br>él/ella/usted da<br>nosotros/nosotras damos<br>vosotros/vosotras dáis<br>ellos/ellas/ustedes dan<br>
+estar; Yo estoy<br>Tú estas<br>él/ella/usted esta<br>nosotros/nosotras estamos<br>vosotros/vosotras estáis<br>ellos/ellas/ustedes estan<br>
+hacer; Yo hago<br>Tú haces<br>él/ella/usted hace<br>nosotros/nosotras hacemos<br>vosotros/vosotras hacéis<br>ellos/ellas/ustedes hacen<br>
+obedecer; Yo obedezco<br>Tú obedeces<br>él/ella/usted obedece<br>nosotros/nosotras obedecemos<br>vosotros/vosotras obedecéis<br>ellos/ellas/ustedes obedecen<br>
+poner; Yo pongo<br>Tú pones<br>él/ella/usted pone<br>nosotros/nosotras ponemos<br>vosotros/vosotras ponéis<br>ellos/ellas/ustedes ponen<br>
+saber; Yo sé<br>Tú sabes<br>él/ella/usted sabe<br>nosotros/nosotras sabemos<br>vosotros/vosotras sabéis<br>ellos/ellas/ustedes saben<br>
+salir; Yo salgo<br>Tú sales<br>él/ella/usted sale<br>nosotros/nosotras salimos<br>vosotros/vosotras salís<br>ellos/ellas/ustedes salen<br>
+traducir; Yo traduzco<br>Tú traduces<br>él/ella/usted traduce<br>nosotros/nosotras traducimos<br>vosotros/vosotras traducís<br>ellos/ellas/ustedes traducen<br>
+traer; Yo traigo<br>Tú traes<br>él/ella/usted trae<br>nosotros/nosotras traemos<br>vosotros/vosotras traéis<br>ellos/ellas/ustedes traen<br>
+ver; Yo veo<br>Tú ves<br>él/ella/usted ve<br>nosotros/nosotras vemos<br>vosotros/vosotras véis<br>ellos/ellas/ustedes ven<br>
