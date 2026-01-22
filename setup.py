@@ -3,13 +3,13 @@ import sqlite3
 
 import word_lists
 
-def is_reflexivo(word): # reflexivo (verbs with -se suffix) is independent of other rules, so it is best to deal with it at the beggining
+def is_reflexivo(word: str): # reflexivo (verbs with -se suffix) is independent of other rules, so it is best to deal with it at the beggining
     if word[-2:] == "se":
         return True, word[:-2] # just remove "-se"
     else:
         return False, word
 
-def regular(word):
+def regular(word :str):
     all_forms = [word]
     reflexivo, word = is_reflexivo(word)
     core, sufix = word[:-2], word[-2:]
@@ -85,7 +85,7 @@ def setup_db():
         con.execute("INSERT INTO verbs VALUES (?,?,?,?,?,?,?, 2)", all_forms)
         con.commit()
 
-    sets = [(word_lists.vacalicos_e_ie, "e", "ie"), (word_lists.vacalicos_e_i, "e", "i"), (word_lists.vacalicos_o_ue, "o", "ue"), (word_lists.vacalicos_u_ue, "u", "ue"), (word_lists.vacalicos_i_y, "i", "y")]
+    sets = [(word_lists.vacalicos_e_ie, "e", "ie"), (word_lists.vacalicos_e_i, "e", "i"), (word_lists.vacalicos_o_ue, "o", "ue"), (word_lists.vacalicos_u_ue, "u", "ue"), (word_lists.vacalicos_i_y, "i", "yi")]
 
     for _set in sets:
         for word in _set[0]:
